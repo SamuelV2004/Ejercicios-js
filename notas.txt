@@ -1,0 +1,5 @@
+git init : inicializar el repositorio
+git add : mover al area de preparacion para cargar los datos
+git commit: subir los datos con un mesaje al repositorio
+git status: ver el estado de los elemnetos
+git log : ver resumen de todo lo hecho
