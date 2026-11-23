@@ -6,7 +6,7 @@ Repositorio creado para mis prácticas de lógica en JavaScript y control de ver
 - Usar los comandos básicos de Git en la terminal.
 - Trabajar de forma local en un repositorio y registrar cambios con commits.
 - Conectar mi proyecto local con GitHub, clonar repositorios y subir mis avances a la nube.
-- - Ejecutar pruebas de sincronización con git pull
+- Ejecutar pruebas de sincronización con git pull
 
 ## Cómo ejecutar
 1. Abre la terminal dentro de la carpeta del proyecto.
